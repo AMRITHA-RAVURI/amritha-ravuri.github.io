@@ -28,18 +28,20 @@ I’m a Software Developer at Factset with two years of experience developing we
 ### FACTSET | SOFTWARE DEVELOPER ENGINEER 
 *Jun, 2018 – Present* | *Hyderabad, Telangana*
 - Actively working on development of Factset’s Screening tools.
+- My major contributions include employing pdf and excel download of the reports, developing front-end for a new web-application using Vue.
+- Feature enhancements like error-messaging, typeahead. 
+- Improving the speed of the application by 48% using dynamic-routing of Webpack.
+- Reducing the load time of opening a screen by reducing the number of requests of a specific type of call from O(n) to 1. Also, eliminating the redundant data transfer between the front-end and the middle-layer.
+- Developed a tool that PD can use to fix some known client issues by automating the process by writing few SQL procedures which completely mitigated the Engineer's intervention. 
 - As a team, we strictly adhere to the Agile scrum methodology. I'm currently mentoring the new-joinees in the team.
-- I am also a part of the team developing a new Screening web-application from
-scratch.
-- Technologies used: Vue, ASP.NET and othertools and libraries like Webpack
-and Jest for Unit-tests, C++ for backend services, SQL.
+- I am also a part of the team developing a new Screening web-application from scratch.
+- Technologies used: Vue, ASP.NET and othertools and libraries like Webpack and Jest for Unit-tests, C++ for backend services, SQL.
 
 ### SOURSESOL INTERACTIVE SOLUTIONS PVT. LTD | SOFTWARE INTERN
 *May – June, 2017* | *Chennai, Tamilnadu*
-- Worked on a responsive web-application. It included updating real-time data of
-the solar and windmill plants dynamically on the application.
-- Creation of users and user groups by the admins of the application and
-providing necessary access privileges to them through the application.
+- Worked on developing a responsive web-application which included updating real-time data of the solar and windmill plants dynamically on the application.
+- It included a creation of a login system and a dashboard to reflect the real-time values. 
+- A process for creating users and user groups by the admins of the application and providing necessary access privileges to them through the application.
 - Technologies used: PHP, SQL, Bootstrap
 
 
