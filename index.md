@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+Hi, I'm **Amritha Vardhini Ravuri** and this is my profile
 
-You can use the [editor on GitHub](https://github.com/AMRITHA-RAVURI/amritharavuri.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I’m a Software Developer at Factset with two years of experience developing web-applications. I'm passionate about problem solving and creating long-term value for the customer by solving real-world problems. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### EDUCATION
 
-### Markdown
+# Bachelor of Technology, Computer Science and Engineering (2014 - 2018)
+ - Maulana Azad National Institute of Technology, Bhopal
+ - CGPA: 8.72
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Andhra Pradesh Board of Intermediate Public Examination, Class XII (2014)
+ - Narayana Junior College, Kadapa, Andhra Pradesh
+ - Percentage: 98.3%
 
-```markdown
-Syntax highlighted code block
+# SSC, Class X (2012)
+ - Narayana Techno School, Kadapa, Andhra Pradesh
+ - CGPA: 9.8
+ 
+### SKILLS
 
-# Header 1
-## Header 2
-### Header 3
+ - Programming Languages      C, Java, Python
+ - Web Technologies           HTML, CSS, Javascript, Typescript, Vue, jQuery, C, SQL, PHP
+ - Other Technologies         Git, NLP
+ - Tools                      VSCode, Visual Studio, MSSQL, SQLyog
+ 
+### PROJECTS
 
-- Bulleted
-- List
+**Location Based Recomender System** *July 2017 - Jan 2018*
+*(Major Project)*
+- Implemented an algorithm for geographical-based recommender system which suggests an optimal path sequentially for a series of given pick-up points. 
+- The problem of this sequential recommendation is to suggest a route connecting some pick-up points for a taxi driver so that he/she is more likely to get passengers with less travel cost. Used to dynamic-programming to overcome the challenge of high computational complexity due to larger number of pick-up points.
+- Language: Python
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Emotional Analysis on Tweets** *Jan 2017 - May 2017*
+*(Mini Project)*
+- The aim of this project is to predict the emotion of a user analyzing his tweets. Python's NLTK package was used thoroughly for pre-processing the tweets and an NLP based technique was employed to analyze the emotions of the user.
+- Language: Python
+- Technique: NLP's n-grams technique
+- Package: NLTK
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AMRITHA-RAVURI/amritharavuri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
