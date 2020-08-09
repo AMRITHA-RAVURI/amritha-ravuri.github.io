@@ -28,8 +28,7 @@ I’m a Software Developer at Factset with two years of experience developing we
 ### FACTSET | SOFTWARE DEVELOPER ENGINEER 
 *Jun, 2018 – Present* | *Hyderabad, Telangana*
 - Actively working on development of Factset’s Screening tools.
-- My major contributions include employing pdf and excel download of the reports, developing front-end for a new web-application using Vue.
-- Feature enhancements like error-messaging, typeahead. 
+- My major contributions include employing pdf and excel download of the reports, developing front-end for a new web-application using Vue and feature enhancements like error-messaging, typeahead and bug-fixes.
 - Improving the speed of the application by 48% using dynamic-routing of Webpack.
 - Reducing the load time of opening a screen by reducing the number of requests of a specific type of call from O(n) to 1. Also, eliminating the redundant data transfer between the front-end and the middle-layer.
 - Developed a tool that PD can use to fix some known client issues by automating the process by writing few SQL procedures which completely mitigated the Engineer's intervention. 
