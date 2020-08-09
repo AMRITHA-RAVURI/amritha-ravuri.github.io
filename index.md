@@ -1,29 +1,29 @@
-Hi, I'm **Amritha Vardhini Ravuri** and this is my profile
+# Amritha Vardhini Ravuri
 
 I’m a Software Developer at Factset with two years of experience developing web-applications. I'm passionate about problem solving and creating long-term value for the customer by solving real-world problems. 
 
-### EDUCATION
+## EDUCATION
 
-# Bachelor of Technology, Computer Science and Engineering (2014 - 2018)
+### Bachelor of Technology, Computer Science and Engineering (2014 - 2018)
  - Maulana Azad National Institute of Technology, Bhopal
  - CGPA: 8.72
 
-# Andhra Pradesh Board of Intermediate Public Examination, Class XII (2014)
+### Andhra Pradesh Board of Intermediate Public Examination, Class XII (2014)
  - Narayana Junior College, Kadapa, Andhra Pradesh
  - Percentage: 98.3%
 
-# SSC, Class X (2012)
+### SSC, Class X (2012)
  - Narayana Techno School, Kadapa, Andhra Pradesh
  - CGPA: 9.8
  
-### SKILLS
+## SKILLS
 
  - Programming Languages      C, Java, Python
  - Web Technologies           HTML, CSS, Javascript, Typescript, Vue, jQuery, C, SQL, PHP
  - Other Technologies         Git, NLP
  - Tools                      VSCode, Visual Studio, MSSQL, SQLyog
  
-### PROJECTS
+## PROJECTS
 
 **Location Based Recomender System** *July 2017 - Jan 2018*
 *(Major Project)*
